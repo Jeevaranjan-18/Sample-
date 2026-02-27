@@ -1,2 +1,0 @@
-Hello Jeevs
-This Sample file for git practices
